@@ -1,2 +1,1 @@
-# cheer-g.github.io
-My personal website
+My portfolio which contains all my projects, education, skills etc.
